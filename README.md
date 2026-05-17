@@ -28,3 +28,6 @@ streamlit run app.py
 `type_1`, `type_2`, `hp`, `attack`, `defense`, `sp_attack`, `sp_defense`, `speed`, `base_stat_total`, `base_experience`, `capture_rate`, `is_baby`, `is_mythical`
 
 Target: `is_legendary`
+
+## ML Notes
+This was a quick project so there was no time for hyperparameter tuning or cross validation.
